@@ -17,7 +17,7 @@ const HeroSection = () => {
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto fade-in">
           <h1 className="text-5xl md:text-7xl font-heading font-bold mb-6 leading-tight">
-            Heroes Café Plus
+            Délices
           </h1>
           <p className="text-xl md:text-2xl mb-4 text-white/90 font-light">
             Une expérience culinaire exceptionnelle

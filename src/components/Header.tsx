@@ -20,7 +20,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <h1 className="text-2xl font-heading font-bold text-gradient-hero">
-              Heroes Café Plus
+              Délices
             </h1>
           </div>
 

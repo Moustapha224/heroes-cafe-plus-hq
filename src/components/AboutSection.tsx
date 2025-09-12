@@ -31,7 +31,7 @@ const AboutSection = () => {
             </h2>
             <div className="space-y-6 text-muted-foreground text-lg">
               <p>
-                Heroes Café Plus est né d'une vision simple : créer un lieu où les saveurs du monde 
+                Délices est né d'une vision simple : créer un lieu où les saveurs du monde 
                 se rencontrent dans un cadre moderne et accueillant. Depuis 2014, nous nous engageons 
                 à offrir une expérience culinaire unique qui célèbre la diversité et l'excellence.
               </p>
@@ -41,7 +41,7 @@ const AboutSection = () => {
                 et éveillent les sens.
               </p>
               <p>
-                Aujourd'hui, Heroes Café Plus est devenu un lieu de rencontre incontournable, 
+                Aujourd'hui, Délices est devenu un lieu de rencontre incontournable, 
                 où chaque repas est une célébration de la bonne cuisine et de la convivialité.
               </p>
             </div>

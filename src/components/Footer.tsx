@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Restaurant Info */}
           <div>
             <h3 className="text-2xl font-heading font-bold mb-4 text-accent">
-              Heroes Café Plus
+              Délices
             </h3>
             <p className="text-secondary-foreground/80 mb-4">
               Une expérience culinaire exceptionnelle qui unit les saveurs du monde 
@@ -83,7 +83,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-secondary-foreground/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-secondary-foreground/60">
-            © 2024 Heroes Café Plus. Tous droits réservés.
+            © 2024 Délices. Tous droits réservés.
           </p>
           <p className="text-sm text-secondary-foreground/60 mt-2 md:mt-0">
             Créé avec ❤️ pour une expérience culinaire exceptionnelle
